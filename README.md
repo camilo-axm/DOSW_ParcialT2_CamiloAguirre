@@ -16,7 +16,8 @@ Clases
 <img width="1025" height="255" alt="image" src="https://github.com/user-attachments/assets/0da10631-f670-4572-a0cf-cef632a4c5bf" />
 
 ### Profesor
-<img width="978" height="181" alt="image" src="https://github.com/user-attachments/assets/16f2d794-7e47-44ea-91dd-74eaac8c9b19" 
+<img width="969" height="169" alt="image" src="https://github.com/user-attachments/assets/28e111a7-419e-4edb-a0bf-5d00f674f104" />
+
      
 
 
