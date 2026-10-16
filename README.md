@@ -1,9 +1,13 @@
-# DOSW_ParcialT2_CamiloAguirre
 
-### Diagrama Entidad Relacion
-<img width="1153" height="511" alt="image" src="https://github.com/user-attachments/assets/0496e927-6a1d-4650-b3ce-b7531ca63239" />
+## Insercion de datos en tablas
 
-### Diagrama Clases
+<img width="632" height="518" alt="image" src="https://github.com/user-attachments/assets/2d0a7bf8-00c2-460e-b5ae-d77b8e5405e8" />
 
-<img width="1284" height="804" alt="image" src="https://github.com/user-attachments/assets/74f0c4cc-7028-4ed5-b2ec-306458e20548" />
+
+### Tutor
+<img width="1025" height="255" alt="image" src="https://github.com/user-attachments/assets/0da10631-f670-4572-a0cf-cef632a4c5bf" />
+
+### Profesor
+<img width="978" height="181" alt="image" src="https://github.com/user-attachments/assets/16f2d794-7e47-44ea-91dd-74eaac8c9b19" />
+
 
